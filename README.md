@@ -38,7 +38,7 @@ The solution has been designed as a part of multiple serivces that handle a sing
     CREATE TABLE user_data
     ( id  int NOT NULL,
       user_name VARCHAR(30) NOT NULL,
-      CONSTRAINT user_data_pk PRIMARY KEY (id)
+      PRIMARY KEY (id)
     );
 
 # Steps to Run
