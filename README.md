@@ -1,6 +1,6 @@
 # Ride-Rating
 
-This project is a basic implementaion of how a rating service works.
+This project is a basic implementaion of how a rating service works. The Framework used is Spring.
 
 # Assumptions:
   Host : Ride Driver, Customer : Ride Customer 
